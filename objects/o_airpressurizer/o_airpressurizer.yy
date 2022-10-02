@@ -1,0 +1,43 @@
+{
+  "spriteId": {
+    "name": "s_airpressurizer",
+    "path": "sprites/s_airpressurizer/s_airpressurizer.yy",
+  },
+  "solid": false,
+  "visible": true,
+  "spriteMaskId": {
+    "name": "s_airpressurizer",
+    "path": "sprites/s_airpressurizer/s_airpressurizer.yy",
+  },
+  "persistent": false,
+  "parentObjectId": {
+    "name": "o_interactable",
+    "path": "objects/o_interactable/o_interactable.yy",
+  },
+  "physicsObject": false,
+  "physicsSensor": false,
+  "physicsShape": 1,
+  "physicsGroup": 1,
+  "physicsDensity": 0.5,
+  "physicsRestitution": 0.1,
+  "physicsLinearDamping": 0.1,
+  "physicsAngularDamping": 0.1,
+  "physicsFriction": 0.2,
+  "physicsStartAwake": true,
+  "physicsKinematic": false,
+  "physicsShapePoints": [],
+  "eventList": [
+    {"isDnD":false,"eventNum":7,"eventType":7,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+  ],
+  "properties": [],
+  "overriddenProperties": [],
+  "parent": {
+    "name": "Pressurizer",
+    "path": "folders/Base/Pressurizer.yy",
+  },
+  "resourceVersion": "1.0",
+  "name": "o_airpressurizer",
+  "tags": [],
+  "resourceType": "GMObject",
+}
